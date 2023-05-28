@@ -6,4 +6,8 @@ This repo contains a statistics project that was completed during my studies. Th
 -------------------------
 
 # Files
-### 
+### NYC-flight-prediction.md
+This is the viewable rmarkdown file of the predictive analysis performed on the NYC flight dataset.
+
+### NYC-flight-prediction.Rmd
+The source file of the viewable NYC-flight-prediction.md document.
